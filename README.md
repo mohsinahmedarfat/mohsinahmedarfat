@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.ibb.co/yn4HTm6/code.jpg" alt="cover image">
+</div>
+
 # Hello!👋 I'm Mohsin Ahmed Arfat
 Web Developer
 
