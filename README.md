@@ -25,7 +25,7 @@ Web Developer
 - 💬 Ask me about JavaScript, React, and Node.
 - 📫 Reach me at mohsinarfat53@gmail.com.
 
-## Familiar Tech Skills
+## ⚙️ Familiar Tech Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
