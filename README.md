@@ -1,8 +1,10 @@
-### Commit Count and Streak Stats
+### GitHub Stats
+
+## Commit Count and Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&theme=dark&hide_border=true)
 
-### Most Used Languages
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact&theme=dark&hide_border=true)
 
@@ -18,8 +20,3 @@
 - 📫 How to reach me: [your email address or LinkedIn profile].
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love hiking and have traveled to 20+ countries.
-
-### GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact&theme=dark&hide_border=true)
