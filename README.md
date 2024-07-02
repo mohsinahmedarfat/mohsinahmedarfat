@@ -1,4 +1,7 @@
-## GitHub Stats
+# Hello!👋 I'm Mohsin Ahmed Arfat
+Web Developer
+
+## 📊 GitHub Stats
 
 ### Commit Count and Streak Stats
 
@@ -12,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
 </div>
 
-## About Me
+## 🤵🏻 About Me
 
 👋 Hello! I'm **Mohsin Ahmed Arfat**, a passionate developer interested in web development. I love exploring new technologies and constantly strive to improve my skills and contribute to the community.
 
