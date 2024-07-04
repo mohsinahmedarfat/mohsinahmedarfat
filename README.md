@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/yn4HTm6/code.jpg" alt="cover image">
+  <img src="https://i.ibb.co/717jk8x/Mohsin-Ahmed-Arfat-Junior-MERN-Stack-Developer-Linkedin-banner.png" alt="cover image">
 </div>
 
 # Hello!👋 I'm Mohsin Ahmed Arfat
