@@ -2,11 +2,7 @@
   <img src="https://i.ibb.co/717jk8x/Mohsin-Ahmed-Arfat-Junior-MERN-Stack-Developer-Linkedin-banner.png" alt="cover image">
 </div>
 
-<p align="left">
-  <a href="https://jrtechs.net">
-    <img src="https://jrtechs.net/api/recentSVG" alt="Recent Blog Posts"></img>
-  </a>
-</p>
+
 
 ## 📊 GitHub Stats
 
@@ -30,7 +26,7 @@
 - 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on open-source projects and hackathons.
 - 💬 Ask me about JavaScript, React, and Node.
-- 📫 Reach me at mohsinarfat53@gmail.com.
+- 📫 Reach me at [mohsinarfat53@gmail.com](mohsinarfat53@gmail.com).
 
 ## ⚙️ Familiar Tech Skills
 
