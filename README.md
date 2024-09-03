@@ -2,6 +2,12 @@
   <img src="https://i.ibb.co/717jk8x/Mohsin-Ahmed-Arfat-Junior-MERN-Stack-Developer-Linkedin-banner.png" alt="cover image">
 </div>
 
+<p align="left">
+  <a href="https://jrtechs.net">
+    <img src="https://jrtechs.net/api/recentSVG" alt="Recent Blog Posts"></img>
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 
 ### Commit Count and Streak Stats
