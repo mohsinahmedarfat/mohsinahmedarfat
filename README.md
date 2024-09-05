@@ -7,9 +7,9 @@
 src="https://img.shields.io/github/followers/mohsinahmedarfat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-XXX%20lines-blue)
-
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-123k%20lines-blue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?mohsinahmedarfat=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📊 GitHub Stats
