@@ -12,7 +12,7 @@
   </a> 
   
   <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="express" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
 </p>
 
