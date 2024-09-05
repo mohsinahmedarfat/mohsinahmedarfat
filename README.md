@@ -2,8 +2,16 @@
   <img src="https://i.ibb.co/717jk8x/Mohsin-Ahmed-Arfat-Junior-MERN-Stack-Developer-Linkedin-banner.png" alt="cover image">
 </div>
 
-<a href="https://github.com/mohsinahmedarfat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mohsinahmedarfat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://github.com/mohsinahmedarfat" target="_blank" rel="noreferrer">
+<img
+src="https://img.shields.io/github/followers/mohsinahmedarfat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
+<a href="https://github.com/mohsinahmedarfat" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/github/followers/mohsinahmedarfat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
+    style="margin-right: 10px; margin-bottom: 10px;" />
+</a>
 
 
 ## 📊 GitHub Stats
