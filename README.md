@@ -53,7 +53,7 @@
   </a> 
 
   <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="express" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="express" width="50" height="50"/> 
   </a> 
 
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
