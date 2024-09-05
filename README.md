@@ -55,11 +55,11 @@
 
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" width="50" height="50"/> 
-  </a> 
+  </a> &nbsp;&nbsp;
 
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50"/> 
-  </a> 
+  </a> &nbsp;&nbsp;
 
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> 
@@ -78,7 +78,7 @@
 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="Expressjs" width="50" height="50"/> 
-  </a>
+  </a> &nbsp;&nbsp;
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="MongoDB" width="50" height="50"/> 
