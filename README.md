@@ -7,11 +7,7 @@
 src="https://img.shields.io/github/followers/mohsinahmedarfat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-<a href="https://github.com/mohsinahmedarfat" target="_blank" rel="noreferrer">
-  <img
-    src="https://img.shields.io/github/followers/mohsinahmedarfat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
-    style="margin-right: 10px; margin-bottom: 10px;" />
-</a>
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-XXX%20lines-blue)
 
 
 ## 📊 GitHub Stats
