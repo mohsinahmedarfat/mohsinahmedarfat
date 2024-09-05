@@ -70,7 +70,7 @@
 
   <a href="https://react.dev" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50" height="50"/> 
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Nodejs" width="50" height="50"/> 
