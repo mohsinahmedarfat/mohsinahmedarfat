@@ -11,6 +11,8 @@ src="https://img.shields.io/github/followers/mohsinahmedarfat?logo=github&style=
 
 [![trophy](https://github-profile-trophy.vercel.app/?mohsinahmedarfat=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?mohsinahmedarfat=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📊 GitHub Stats
 
