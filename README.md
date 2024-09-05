@@ -44,43 +44,39 @@
 <h3 align="left">Languages:</h3>
 <p align="center">
   
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="JavaScript" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/> 
   </a> 
   
-  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="express" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="60" height="60"/> 
   </a> 
 
-  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="express" width="50" height="50"/> 
-  </a> 
-
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/> 
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" width="50" height="50"/> 
   </a> 
 
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50"/> 
   </a> 
 
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="JavaScript" width="40" height="40"/> 
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> 
+  </a> 
+
+  <a href="https://react.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50" height="50"/> 
   </a>
 
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="JavaScript" width="40" height="40"/> 
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Nodejs" width="50" height="50"/> 
   </a>
 
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="JavaScript" width="40" height="40"/> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="Expressjs" width="50" height="50"/> 
   </a>
 
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="JavaScript" width="40" height="40"/> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="MongoDB" width="50" height="50"/> 
   </a>
 </p>
