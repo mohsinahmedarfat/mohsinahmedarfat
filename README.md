@@ -42,7 +42,7 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="center">
+<div align="center">
   
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
@@ -81,4 +81,4 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="MongoDB" width="50" height="50"/> 
   </a>
-</p>
+</div>
