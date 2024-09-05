@@ -44,7 +44,7 @@
 <h3 align="left">Languages:</h3>
 <div align="center">
   
-  <div>
+  <div style="margin-bottom: 5px;">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/> 
   </a> 
