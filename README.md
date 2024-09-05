@@ -9,6 +9,8 @@ src="https://img.shields.io/github/followers/mohsinahmedarfat?logo=github&style=
 
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-XXX%20lines-blue)
 
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-123k%20lines-blue)
+
 
 ## 📊 GitHub Stats
 
