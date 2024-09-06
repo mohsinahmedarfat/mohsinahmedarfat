@@ -26,7 +26,7 @@
 - 💬 Ask me about JavaScript, React, and Node.
 - 📫 Reach me at [mohsinarfat53@gmail.com](mohsinarfat53@gmail.com).
 
-## ⚙️ Familiar Tech Skills
+## ⚙️ Languages and Tools
 
 <div align="center">  
   <div>
@@ -59,7 +59,7 @@
   </a> &nbsp;&nbsp;
 
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Nodejs" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="50" height="50"/> 
   </a> &nbsp;&nbsp;
 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
