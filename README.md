@@ -39,7 +39,7 @@
   </a> &nbsp;
 
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" width="50" height="50"/> 
   </a> &nbsp;
 
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
@@ -63,7 +63,7 @@
   </a> &nbsp;
 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Expressjs" width="50" height="50"/> 
+    <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="Expressjs" width="50" height="50"/> 
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
