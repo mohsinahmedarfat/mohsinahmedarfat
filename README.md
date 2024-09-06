@@ -2,8 +2,6 @@
   <img src="https://i.ibb.co/717jk8x/Mohsin-Ahmed-Arfat-Junior-MERN-Stack-Developer-Linkedin-banner.png" alt="cover image">
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 ### Commit Count and Streak Stats
@@ -11,6 +9,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
+
+---
 
 ### Most Used Languages
 
