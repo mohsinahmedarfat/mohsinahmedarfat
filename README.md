@@ -2,11 +2,7 @@
   <img src="https://i.ibb.co/717jk8x/Mohsin-Ahmed-Arfat-Junior-MERN-Stack-Developer-Linkedin-banner.png" alt="cover image">
 </div>
 
-
-
 ---
-
-### 📺 Latest YouTube Videos
 
 ## 📊 GitHub Stats
 
