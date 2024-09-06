@@ -55,7 +55,7 @@
 
   <div>
     <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
   </a> &nbsp;&nbsp;
 
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
@@ -67,7 +67,7 @@
   </a> &nbsp;&nbsp;
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="MongoDB" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> 
   </a>
   </div>
 </div>
