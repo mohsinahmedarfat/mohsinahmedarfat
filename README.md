@@ -64,7 +64,7 @@
 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="Expressjs" width="50" height="50"/> 
-  </a> &nbsp;
+  </a>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> 
