@@ -63,7 +63,7 @@
   </a> &nbsp;
 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="Expressjs" width="50" height="50"/> 
+    <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" alt="Expressjs" width="50" height="50"/> 
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
