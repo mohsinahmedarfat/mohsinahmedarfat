@@ -6,9 +6,20 @@
 
 ### Commit Count and Streak Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&theme=dark&hide_border=true" alt="GitHub Streak">
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&show_icons=true" />
+    <img alt="mohsinahmedarfat GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&show_icons=true" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&hide_border=true" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&hide_border=true" />
+  </picture>
+</p>
+
 
 ---
 
