@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/717jk8x/Mohsin-Ahmed-Arfat-Junior-MERN-Stack-Developer-Linkedin-banner.png" alt="cover image">
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinahmedarfat&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinahmedarfat" /> </p>
 
 ## 📊 GitHub Stats
 
@@ -14,9 +15,9 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&hide_border=true" />
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat" />
   </picture>
 </p>
 
