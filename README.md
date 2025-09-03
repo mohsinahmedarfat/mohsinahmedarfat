@@ -46,6 +46,8 @@
 - 👯 I’m looking to collaborate on open-source projects and hackathons.
 - 💬 Ask me about JavaScript, React, and Node.
 - 📫 Reach me at [mohsinarfat53@gmail.com](mohsinarfat53@gmail.com).
+- 👨‍💻 All of my projects are available at [Portfolio](https://mohsinahmedarfat.netlify.app)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18XsUoxCasjIoEH_AgPERYDX-iWluFbU3/view?usp=sharing)
 
 ## ⚙️ Languages and Tools
 
