@@ -21,12 +21,17 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat" />
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinahmedarfat" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&hide_border=false&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&hide_border=false" />
+    <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&hide_border=false" />
   </picture>
 </p>
 
+<!-- Github Stats
+![](https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 ---
 
