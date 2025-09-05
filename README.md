@@ -3,11 +3,6 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinahmedarfat&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinahmedarfat" /> </p>
 
-## 🏆 GitHub Trophies
-<p align="center"> 
-  <img alt="mohsinahmedarfat GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=mohsinahmedarfat&theme=default&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
 ## 📊 GitHub Stats
 
 ### Commit Count and Streak Stats
