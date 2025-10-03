@@ -82,10 +82,9 @@
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="50" height="50"/> 
     <img width="10" />
-    <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" alt="Expressjs" width="50" height="50"/> 
-    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+    <img width="3" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> 
-    <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />  
     <img width="10" />
     <img src="https://cdn.simpleicons.org/prisma/2D3748" height="50" alt="prisma logo"  />
