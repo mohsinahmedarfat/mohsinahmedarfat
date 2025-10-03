@@ -56,48 +56,63 @@
 
 ## ⚙️ Languages and Tools
 
-<div align="center">    
+<div align="center">  
+  <!-- Horizontal spacing (x). Can use between logos for spacing. -->
+  <!-- <img width="12" /> -->
   <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="60"/> 
-  </a> &nbsp;
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="60"/> 
-  </a> &nbsp;
-
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" width="50" height="50"/> 
-  </a> &nbsp;
-
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50"/> 
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
+    <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-  </a> &nbsp;
-
-  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> 
-  </a> 
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="nextjs logo"  />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" width="50" height="50"/>
   </div>
 
   <br>
 
   <div>
-    <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
-  </a> &nbsp;
-
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="50" height="50"/> 
-  </a> &nbsp;
-
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img width="10" />
     <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" alt="Expressjs" width="50" height="50"/> 
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> 
-  </a>
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />  
+    <img width="10" />
+    <img src="https://cdn.simpleicons.org/prisma/2D3748" height="50" alt="prisma logo"  />
   </div>
+
+  <br>
+
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />  
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+    <img width="10" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> 
+    <img width="10" />
+    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" alt="postman logo"  />  
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
+    <img width="10" />
+    <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45" alt="netlify logo"  />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="trello logo"  />  
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />  
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  </div>
+  
 </div>
 
 <p align="center">
