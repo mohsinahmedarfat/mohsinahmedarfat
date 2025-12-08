@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/717jk8x/Mohsin-Ahmed-Arfat-Junior-MERN-Stack-Developer-Linkedin-banner.png" alt="cover image">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinahmedarfat&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinahmedarfat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinahmedarfat&label=visitors&color=0e75b6&style=flat" alt="mohsinahmedarfat" /> </p>
 
 ## 📊 GitHub Stats
 
@@ -39,6 +39,10 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact" />
   </picture>
+
+  <div align="right">
+    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  </div>
 </div>
 
 
@@ -117,3 +121,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
