@@ -31,7 +31,7 @@
 
 ### Most Used Languages
 
-<div align="center">
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact&theme=dark" />
@@ -39,11 +39,11 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact" />
   </picture>
-
-  <div align="right">
-    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  </div>
+  
+  <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  
 </div>
+
 
 
 ## 🤵🏻 About Me
