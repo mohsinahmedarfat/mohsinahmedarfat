@@ -8,65 +8,35 @@
 
 <!-- <p>### Commit Count and Streak Stats [// remove p tag]</p> -->
 
+<!-- STREAK COUNT -
 <div align="center">
-
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&theme=dark"
+    src="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&theme=transparent"
     alt="GitHub Streak"
   />
-
 </div>
-
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&show_icons=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&show_icons=true" />
-    <img alt="mohsinahmedarfat GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&show_icons=true" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&hide_border=false&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&hide_border=false" />
-    <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&hide_border=false" />
-  </picture>
-</div> -->
-
-<!-- Github Stats
-![](https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 
----
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinahmedarfat&theme=graywhite" alt="Profile details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohsinahmedarfat&theme=graywhite" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinahmedarfat&theme=graywhite" alt="Stats" />
+</p>
 
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact)
-
-
-<div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact" />
-
-
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact&theme=github_dark&hide_border=true"
-  alt="Top Languages"
-/>
-
-
-  
-  <!-- <picture>
+<div> 
+  <!-- MOST USED LANGUAGE -
+  <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact&theme=dark" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact" />
-  </picture> -->
+  </picture>
+  -->
   
+  <!-- CODING GIF -
   <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  
+  -->  
 </div>
 
 
