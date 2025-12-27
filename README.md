@@ -3,11 +3,22 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinahmedarfat&label=visitors&color=0e75b6&style=flat" alt="mohsinahmedarfat" /> </p>
 
+
 ## 📊 GitHub Stats
 
-### Commit Count and Streak Stats
+<!-- <p>### Commit Count and Streak Stats [// remove p tag]</p> -->
 
-<p align="center">
+<div align="center">
+
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&theme=dark"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&show_icons=true&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&show_icons=true" />
@@ -19,7 +30,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&hide_border=false" />
     <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=mohsinahmedarfat&hide_border=false" />
   </picture>
-</p>
+</div> -->
 
 <!-- Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=mohsinahmedarfat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -32,13 +43,21 @@
 ### Most Used Languages
 
 <div>
-  <picture>
+
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact&theme=github_dark&hide_border=true"
+  alt="Top Languages"
+/>
+
+
+  
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact&theme=dark" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinahmedarfat&layout=compact" />
-  </picture>
+  </picture> -->
   
   <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   
