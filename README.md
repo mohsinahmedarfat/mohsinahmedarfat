@@ -3,6 +3,19 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinahmedarfat&label=visitors&color=0e75b6&style=flat" alt="mohsinahmedarfat" /> </p>
 
+## 🤵🏻 About Me
+
+👋 Hello! I'm **Mohsin Ahmed Arfat**, a passionate developer interested in web development. I love exploring new technologies and constantly strive to improve my skills and contribute to the community.
+
+- 🔭 I’m currently working on a React-based web application.
+- 🌱 I’m currently learning Next.js.
+- 👯 I’m looking to collaborate on open-source projects and hackathons.
+- 💬 Ask me about JavaScript, React, and Node.
+- 📫 Reach me at [mohsinarfat53@gmail.com](mohsinarfat53@gmail.com).
+- 👨‍💻 All of my projects are available at [Portfolio](https://mohsinahmedarfat.netlify.app)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18XsUoxCasjIoEH_AgPERYDX-iWluFbU3/view?usp=sharing)
+
+
 
 ## 📊 GitHub Stats
 
@@ -38,20 +51,6 @@
   <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   -->  
 </div>
-
-
-
-## 🤵🏻 About Me
-
-👋 Hello! I'm **Mohsin Ahmed Arfat**, a passionate developer interested in web development. I love exploring new technologies and constantly strive to improve my skills and contribute to the community.
-
-- 🔭 I’m currently working on a React-based web application.
-- 🌱 I’m currently learning Next.js.
-- 👯 I’m looking to collaborate on open-source projects and hackathons.
-- 💬 Ask me about JavaScript, React, and Node.
-- 📫 Reach me at [mohsinarfat53@gmail.com](mohsinarfat53@gmail.com).
-- 👨‍💻 All of my projects are available at [Portfolio](https://mohsinahmedarfat.netlify.app)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18XsUoxCasjIoEH_AgPERYDX-iWluFbU3/view?usp=sharing)
 
 ## ⚙️ Languages and Tools
 
